@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("Test Multiply 5*5" + multiply(5,5) );
+        System.out.println("Test Multiply 5*5 = " + multiply(5,5) );
 
         int i = 10;
         int y = 5;
