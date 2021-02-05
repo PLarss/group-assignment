@@ -1,6 +1,13 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+        System.out.println(add(5,5));
+
+    }
+
+    public static int add (int a, int b) {
+        int sum = a + b;
+        return sum;
     }
 }
